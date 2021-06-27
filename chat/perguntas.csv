@@ -1,0 +1,56 @@
+question;answer_id
+Qual seu nome?;0
+Como voce se chama?;0
+Qual o seu time?;1
+Que time voce torce?;1
+Qual o seu time de coracao?;1
+Qual o seu prato preferido?;2
+Como voce esta?;2
+Como vai?;3
+Em qual cidade voce mora?;3
+Onde voce vive?;3
+Quantos anos voce tem?;4
+Qual a sua idade?;4
+Qual o seu peso?;5
+Quantos kg voce pesa?;5
+Ola, tudo bem?;6
+Ola.;6
+Como voce esta?;6
+Voce gosta de andar de bicicleta?;7
+Voce gosta de pedalar?;7
+Voce gosta de bike?;7
+Voce mora com quem?;8
+Com quem voce mora?;8
+Voce mora em casa ou apartamento?;10
+Sua residencia e casa ou apartamento?;10
+Voce gosta de esportes?;11
+Voce gosta de atividades esportivas?;11
+Voce estuda?;9
+Voce e estudante?;9
+Voce gosta de cachorro?;9
+Voce gosta de pet?;9
+Voce gosta de chocolate?;12
+Qual seu jogo preferido?;13
+O que voce gosta de jogar?;13
+Voce come chocolate?;12
+Eu tambem. Voce prefere chocolate branco ou preto?;14
+Eu tambem. Seu chocolate favorito e branco ou preto?;14
+Voce gosta de viajar?;15
+Voce gosta de passear?;15
+Que lugar voce gostaria de conhecer?;16
+Voce escolhe qual destino no Oceano Índico ?;16
+Que estilo de música voce gosta?;17
+Qual o seu estilo musical preferido?;17
+Que tipo de música voce ouve?;17
+Eu ouco rock.;18
+Prefiro rock.;18
+Eu escuto rock.;18
+Obrigado.;19
+Valeu;19
+Tchau;19
+Fui;19
+Ola;20
+Oi.;20
+Bom dia;21
+Boa tarde;22
+Boa noite.;23
