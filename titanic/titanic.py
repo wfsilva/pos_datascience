@@ -40,7 +40,7 @@ network.compile(optimizer=opt,loss='categorical_crossentropy', metrics=['accurac
 
 history = network.fit(train_set,
                       train_labels,
-                      epochs=20,
+                      epochs=250,
                       batch_size=128,
                       validation_data=(test_set,test_labels))
 
